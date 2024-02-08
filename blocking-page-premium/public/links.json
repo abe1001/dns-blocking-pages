@@ -1,0 +1,56 @@
+[
+    {
+      "header": "About Telia",
+      "links": [
+        {
+          "href": "#",
+          "name": "Press and news"
+        },
+        {
+          "href": "#",
+          "name": "Digital Nation"
+        },
+        {
+          "href": "#",
+          "name": "Network of the future"
+        },
+        {
+          "href": "#",
+          "name": "Work for us"
+        },
+        {
+          "href": "#",
+          "name": "Sustainability"
+        },
+        {
+          "href": "#",
+          "name": "Board of directors"
+        }
+      ]
+    },
+    {
+      "header": "Support",
+      "links": [
+        {
+          "href": "#",
+          "name": "Status of services"
+        },
+        {
+          "href": "#",
+          "name": "Coverage maps"
+        },
+        {
+          "href": "#",
+          "name": "Reporting and violations"
+        },
+        {
+          "href": "#",
+          "name": "Help with invoices"
+        },
+        {
+          "href": "#",
+          "name": "Community"
+        }
+      ]
+    }
+  ]
